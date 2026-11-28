@@ -1,25 +1,43 @@
 ﻿ID,Theme,Difficulty,Type,Question,Answer,AcceptableAnswers,Hint
-1,Comparatives,1,Fill in the Blank,"A train takes 30 minutes, but the bicycle trip takes two hours. A train is ___ than a bicycle.",faster,A train is more fast.,Try to focus on the grammar or vocabulary clue.
-2,Comparatives,1,Complete the Sentence,This book keeps me interested longer than that one. It is ___ than that one.,more interesting,interestinger,Try to focus on the grammar or vocabulary clue.
+1,Comparatives,1,Fill in the Blank,"A train takes 30 minutes, but the bicycle trip takes two hours. A train is ___ than a bicycle.",faster,quicker,Try to focus on the grammar or vocabulary clue.
+2,Comparatives,1,Complete the Sentence,This book keeps me interested longer than that one. It is ___ than that one.,more interesting,more compelling|more engaging,Try to focus on the grammar or vocabulary clue.
 3,Comparatives,2,Fix the Mistake,Correct the error: My bag is more heavier.,heavier,,Try to focus on the grammar or vocabulary clue.
-4,Comparatives,2,Make a Sentence,(than the red car / expensive / the blue car),The blue car is more expensive than the red car.,The blue car more expensive.,Try to focus on the grammar or vocabulary clue.
-5,Comparatives,3,Fill in the Blank,The temperature is 4°C today and 12°C yesterday. Today is ___ than yesterday.,colder,Today is more cold.,Try to focus on the grammar or vocabulary clue.
-6,Comparatives,3,Complete the Sentence,No building in town is higher than this one. It is the ___ building in town.,tallest,the most tall,Try to focus on the grammar or vocabulary clue.
+4,Comparatives,2,Make a Sentence,(than the red car / expensive / the blue car),The blue car is more expensive than the red car.,,Try to focus on the grammar or vocabulary clue.
+5,Comparatives,3,Fill in the Blank,The temperature is 4°C today and 12°C yesterday. Today is ___ than yesterday.,colder,more chilly,Try to focus on the grammar or vocabulary clue.
+6,Comparatives,3,Complete the Sentence,No building in town is higher than this one. It is the ___ building in town.,tallest,highest,Try to focus on the grammar or vocabulary clue.
 7,Comparatives,4,Fix the Mistake,Correct the error: She is gooder at maths than me.,better,,Try to focus on the grammar or vocabulary clue.
 8,Comparatives,4,Make a Question,"Complete the comparison question with the correct question word: ___ is smaller, your phone or mine?",Which,,Try to focus on the grammar or vocabulary clue.
-9,Comparatives,5,Complete the Sentence,The plane trip takes two hours; the car trip takes six. A plane is ___ than a car.,faster,A plane is fast than a car.,Try to focus on the grammar or vocabulary clue.
+9,Comparatives,5,Complete the Sentence,The plane trip takes two hours; the car trip takes six. A plane is ___ than a car.,faster,quicker,Try to focus on the grammar or vocabulary clue.
 10,Comparatives,5,Open Speaking,Compare two animals using two comparative adjectives.,Student-generated comparison,,Try to focus on the grammar or vocabulary clue.
-11,Comparatives,2,Fill in the Blank,The library has less noise than the cafeteria. It is ___ than the cafeteria.,quieter,,Compare the noise levels in the two places.
-12,Comparatives,2,Complete the Sentence,"The wooden chair hurts my back, but I can sit for hours in this one. It is ___ than that one.",more comfortable,,Compare how the two chairs feel.
+11,Comparatives,2,Fill in the Blank,The library has less noise than the cafeteria. It is ___ than the cafeteria.,quieter,most difficult|most challenging,Compare the noise levels in the two places.
+12,Comparatives,2,Complete the Sentence,"The wooden chair hurts my back, but I can sit for hours in this one. It is ___ than that one.",more comfortable,more crowded,Compare how the two chairs feel.
 13,Comparatives,2,Fill in the Blank,This lake has greater depth than every other lake in the region. It is the ___ lake.,deepest,,Compare this lake with every other lake in the region.
 14,Comparatives,2,Fix the Mistake,Correct the error: My new route is more shorter than the old route.,shorter,,Use only one comparative marker.
-15,Comparatives,2,Complete the Sentence,Hana follows every road sign and checks her mirrors. She drives ___ than her brother.,more carefully,,Compare the way the two people drive.
-16,Comparatives,2,Fill in the Blank,I prefer this recipe because its flavor is superior. It tastes ___ than the one I tried last week.,better,,Use the irregular comparative form.
+15,Comparatives,2,Complete the Sentence,Hana follows every road sign and checks her mirrors. She drives ___ than her brother.,more carefully,more difficult,Compare the way the two people drive.
+16,Comparatives,2,Fill in the Blank,I prefer this recipe because its flavor is superior. It tastes ___ than the one I tried last week.,better,more spacious,Use the irregular comparative form.
 17,Comparatives,2,Make a Question,"Choose the question word: ___ is heavier, the suitcase or the backpack?",Which,,Choose between the two named objects.
-18,Comparatives,2,Complete the Sentence,Friday has the most appointments of any day. It is the ___ day at the clinic.,busiest,,Compare Friday with all the other days.
-19,Comparatives,2,Fill in the Blank,There are more traffic jams today than yesterday. Traffic is ___ today.,worse,,Use the irregular comparative form.
+18,Comparatives,2,Complete the Sentence,Friday has the most appointments of any day. It is the ___ day at the clinic.,busiest,most entertaining,Compare Friday with all the other days.
+19,Comparatives,2,Fill in the Blank,There are more traffic jams today than yesterday. Traffic is ___ today.,worse,more difficult,Use the irregular comparative form.
 20,Comparatives,2,Make a Sentence,(autumn / colder / winter / than),Winter is colder than autumn.,,Compare the two seasons.
-21,Comparatives,2,Fill in the Blank,This street is wider than the narrow lane beside it. It is ___ than the lane.,wider,,Compare the width of the two roads.
-22,Comparatives,2,Complete the Sentence,This village is farther from the station than the other two. It is the ___ from the station.,farthest,,Compare distance among three places.
-23,Comparatives,2,Fill in the Blank,The first bus comes before the second bus. It arrives ___ than the second bus.,earlier,,Compare the arrival times.
+21,Comparatives,2,Fill in the Blank,This street is wider than the narrow lane beside it. It is ___ than the lane.,wider,more crowded,Compare the width of the two roads.
+22,Comparatives,2,Complete the Sentence,This village is farther from the station than the other two. It is the ___ from the station.,farthest,more compact,Compare distance among three places.
+23,Comparatives,2,Fill in the Blank,The first bus comes before the second bus. It arrives ___ than the second bus.,earlier,most interesting,Compare the arrival times.
 24,Comparatives,2,Complete the Sentence,Renting a house costs more than renting a room. It is ___ to rent a house.,more expensive,,Compare the two costs.
+25,Comparatives,2,Fill in the Blank,This suitcase weighs 20 kg; that one weighs 12 kg. The first is ___.,heavier,more heavy,Try to focus on the grammar or vocabulary clue.
+26,Comparatives,2,Complete the Sentence,This puzzle took me ten minutes; the other took thirty. This one was ___.,easier,less difficult,Try to focus on the grammar or vocabulary clue.
+27,Comparatives,2,Fix the Mistake,Correct the error: This road is more wider than the old road.,wider,,Try to focus on the grammar or vocabulary clue.
+28,Comparatives,2,Fill in the Blank,The blue whale is the ___ animal in the ocean.,largest,biggest,Try to focus on the grammar or vocabulary clue.
+29,Comparatives,2,Complete the Sentence,The second phone costs less than the first. It is ___.,cheaper,less expensive,Try to focus on the grammar or vocabulary clue.
+30,Comparatives,2,Fill in the Blank,My room is 18°C and yours is 21°C. My room is ___.,colder,cooler,Try to focus on the grammar or vocabulary clue.
+31,Comparatives,2,Make a Question,"Complete the question: ___ is farther from here, Rome or Paris?",Which,,Try to focus on the grammar or vocabulary clue.
+32,Comparatives,2,Complete the Sentence,"Of the three routes, this one has the fewest turns. It is the ___.",simplest,easiest,Try to focus on the grammar or vocabulary clue.
+33,Comparatives,2,Fill in the Blank,"The exam was difficult, but the final question was the ___.",hardest,most difficult,Try to focus on the grammar or vocabulary clue.
+34,Comparatives,2,Make a Sentence,(than my old bag / this backpack / lighter),This backpack is lighter than my old bag.,,Try to focus on the grammar or vocabulary clue.
+35,Comparatives,2,Complete the Sentence,Mina finished in 12 minutes; Luis needed 18. Mina was ___.,faster,quicker,Try to focus on the grammar or vocabulary clue.
+36,Comparatives,2,Fill in the Blank,This road has more traffic than the side street. It is ___.,busier,more crowded,Try to focus on the grammar or vocabulary clue.
+37,Comparatives,2,Fix the Mistake,Correct the error: That was the most funniest show.,funniest,,Try to focus on the grammar or vocabulary clue.
+38,Comparatives,2,Complete the Sentence,The museum ticket costs €8; the gallery ticket costs €12. The museum is ___.,cheaper,less expensive,Try to focus on the grammar or vocabulary clue.
+39,Comparatives,2,Fill in the Blank,This box holds 10 liters; that one holds 6. This box is ___.,larger,bigger,Try to focus on the grammar or vocabulary clue.
+40,Comparatives,2,Complete the Sentence,Our new classroom has more windows than the old one. It is ___.,brighter,lighter,Try to focus on the grammar or vocabulary clue.
+41,Comparatives,2,Make a Question,"Complete the question: ___ is more comfortable, the sofa or the chair?",Which,,Try to focus on the grammar or vocabulary clue.
+42,Comparatives,2,Fill in the Blank,The red path is 5 km; the green path is 8 km. The red path is ___.,shorter,less long,Try to focus on the grammar or vocabulary clue.
