@@ -1,25 +1,43 @@
 ﻿ID,Theme,Difficulty,Type,Question,Answer,AcceptableAnswers,Hint
-1,Adjectives of Quantity,1,Fill in the Blank,Complete the sentence: There are ___ apples in the basket; only three are left.,a few,There are a little apples.,Try to focus on the grammar or vocabulary clue.
-2,Adjectives of Quantity,1,Choose and Complete,Complete the question: How ___ milk is left in the carton?,much,I have many milk.,Try to focus on the grammar or vocabulary clue.
+1,Adjectives of Quantity,1,Fill in the Blank,Complete the sentence: There are ___ apples in the basket; only three are left.,a few,few|some|three,Try to focus on the grammar or vocabulary clue.
+2,Adjectives of Quantity,1,Choose and Complete,Complete the question: How ___ milk is left in the carton?,much,,Try to focus on the grammar or vocabulary clue.
 3,Adjectives of Quantity,2,Fix the Mistake,Correct the error: There isn't many water.,much,,Try to focus on the grammar or vocabulary clue.
-4,Adjectives of Quantity,2,Complete the Sentence,Complete the sentence: We need ___ eggs for the cake.,some,We need any eggs.,Try to focus on the grammar or vocabulary clue.
+4,Adjectives of Quantity,2,Complete the Sentence,Complete the sentence: We need ___ eggs for the cake.,some,a few|several|many|a lot of|enough,Try to focus on the grammar or vocabulary clue.
 5,Adjectives of Quantity,3,Make a Question,Complete the present simple question with its auxiliary: ___ you have blue pencils?,Do,,Try to focus on the grammar or vocabulary clue.
-6,Adjectives of Quantity,3,Fill in the Blank,Complete the sentence: The room is crowded with ___ people.,a lot of,There is a lot of people.,Try to focus on the grammar or vocabulary clue.
+6,Adjectives of Quantity,3,Fill in the Blank,Complete the sentence: The room is crowded with ___ people.,a lot of,lots of|many,Try to focus on the grammar or vocabulary clue.
 7,Adjectives of Quantity,4,Fix the Mistake,Correct the error: How much books do you have?,many,,Try to focus on the grammar or vocabulary clue.
-8,Adjectives of Quantity,4,Complete the Sentence,Complete the sentence: There isn't ___ sugar left in the jar.,much,There isn't many sugar.,Try to focus on the grammar or vocabulary clue.
+8,Adjectives of Quantity,4,Complete the Sentence,Complete the sentence: There isn't ___ sugar left in the jar.,much,any|enough,Try to focus on the grammar or vocabulary clue.
 9,Adjectives of Quantity,5,Make It Negative,Complete with the negative present simple form of (be): There ___ many oranges.,aren't,,Try to focus on the grammar or vocabulary clue.
 10,Adjectives of Quantity,5,Fill in the Blank,Complete the question: How ___ water do you drink?,much,,Try to focus on the grammar or vocabulary clue.
-11,Quantifiers,1,Fill in the Blank,Complete the sentence: There are ___ books on the shelf; only two remain.,a few,,Use a quantifier for countable plural nouns.
-12,Quantifiers,1,Fill in the Blank,Complete the sentence: Add ___ oil to the pan before cooking.,a little,,Use a quantifier for an uncountable noun.
-13,Quantifiers,1,Fill in the Blank,Complete the sentence: We bought ___ pears for the picnic.,some,,Use a positive statement with a plural countable noun.
+11,Quantifiers,1,Fill in the Blank,Complete the sentence: There are ___ books on the shelf; only two remain.,a few,few|some|two,Use a quantifier for countable plural nouns.
+12,Quantifiers,1,Fill in the Blank,Complete the sentence: Add ___ oil to the pan before cooking.,a little,some,Use a quantifier for an uncountable noun.
+13,Quantifiers,1,Fill in the Blank,Complete the sentence: We bought ___ pears for the picnic.,some,a few|few|many|a lot of|lots of,Use a positive statement with a plural countable noun.
 14,Quantifiers,1,Complete the Sentence,Complete the question: How ___ rice should I cook?,much,,Flour is not counted one by one.
-15,Quantifiers,1,Fill in the Blank,Complete the sentence: ___ people came to the school concert; every seat was full.,A lot of,,Use a quantifier before a plural countable noun.
-16,Quantifiers,1,Complete the Sentence,Complete the sentence: There isn't ___ tea left for another cup.,much,,Coffee is an uncountable noun here.
-17,Quantifiers,1,Fill in the Blank,"Complete the sentence: I have ___ coins in my pocket, only three.",a few,,The sentence gives a small count.
-18,Quantifiers,1,Fill in the Blank,"Complete the sentence: Add ___ salt, just a pinch.",a little,,The sentence gives a small amount.
+15,Quantifiers,1,Fill in the Blank,Complete the sentence: ___ people came to the school concert; every seat was full.,A lot of,many|lots of,Use a quantifier before a plural countable noun.
+16,Quantifiers,1,Complete the Sentence,Complete the sentence: There isn't ___ tea left for another cup.,much,any|enough,Coffee is an uncountable noun here.
+17,Quantifiers,1,Fill in the Blank,"Complete the sentence: I have ___ coins in my pocket, only three.",a few,few|some|three,The sentence gives a small count.
+18,Quantifiers,1,Fill in the Blank,"Complete the sentence: Add ___ salt, just a pinch.",a little,some|a pinch of,The sentence gives a small amount.
 19,Quantifiers,1,Complete the Sentence,Complete the question: How ___ windows are in the classroom?,many,,Windows can be counted individually.
-20,Quantifiers,1,Fill in the Blank,Complete the sentence: There is ___ traffic on the bridge at rush hour.,a lot of,,Use a quantifier before an uncountable noun.
-21,Quantifiers,1,Fill in the Blank,Complete the sentence: We don't have ___ clean plates.,any,,Use a plural countable noun in a negative sentence.
-22,Quantifiers,1,Fill in the Blank,Complete the question: Is there ___ butter in the fridge?,any,,Use a question about an uncountable noun.
-23,Quantifiers,1,Fill in the Blank,Complete the sentence: There are ___ sandwiches for the team; everyone gets one.,enough,,Think about whether the amount meets the need.
-24,Quantifiers,1,Complete the Sentence,"Complete the sentence: Rain fell all night, and we had ___ rain during the storm.",a lot of,,Use a quantifier before the noun rain.
+20,Quantifiers,1,Fill in the Blank,Complete the sentence: There is ___ traffic on the bridge at rush hour.,a lot of,lots of|much,Use a quantifier before an uncountable noun.
+21,Quantifiers,1,Fill in the Blank,Complete the sentence: We don't have ___ clean plates.,any,any|many,Use a plural countable noun in a negative sentence.
+22,Quantifiers,1,Fill in the Blank,Complete the question: Is there ___ butter in the fridge?,any,some|much,Use a question about an uncountable noun.
+23,Quantifiers,1,Fill in the Blank,Complete the sentence: There are ___ sandwiches for the team; everyone gets one.,enough,some|many,Think about whether the amount meets the need.
+24,Quantifiers,1,Complete the Sentence,"Complete the sentence: Rain fell all night, and we had ___ rain during the storm.",a lot of,lots of|much,Use a quantifier before the noun rain.
+25,Quantifiers,1,Fill in the Blank,Complete the sentence: There are ___ grapes in the bowl; only three remain.,a few,few|some|three,Try to focus on the grammar or vocabulary clue.
+26,Quantifiers,1,Complete the Sentence,Complete the sentence: We have ___ bread for lunch.,some,a little|enough,Try to focus on the grammar or vocabulary clue.
+27,Quantifiers,1,Fill in the Blank,Complete the sentence: There is ___ lemonade in the jug; it is nearly empty.,a little,some|not much,Try to focus on the grammar or vocabulary clue.
+28,Quantifiers,1,Complete the Sentence,Complete the sentence: The hall was full of ___ guests.,many,a lot of|lots of,Try to focus on the grammar or vocabulary clue.
+29,Quantifiers,1,Fill in the Blank,Complete the sentence: Add ___ honey to the tea.,some,a little|a lot of,Try to focus on the grammar or vocabulary clue.
+30,Quantifiers,1,Complete the question: How ___ carrots should I buy?,many,,,Try to focus on the grammar or vocabulary clue.
+31,Quantifiers,1,Fill in the Blank,"Complete the sentence: We have ___ time, so we can walk instead of taking a taxi.",enough,some|a lot of,Try to focus on the grammar or vocabulary clue.
+32,Quantifiers,1,Complete the sentence: There isn't ___ cheese left for a sandwich.,much,any|enough,,Try to focus on the grammar or vocabulary clue.
+33,Quantifiers,1,Fill in the Blank,Complete the sentence: There are ___ tickets left; only two are available.,a few,few|some|two,Try to focus on the grammar or vocabulary clue.
+34,Quantifiers,1,Complete the sentence: Pour ___ cream into the soup.,a little,some,,Try to focus on the grammar or vocabulary clue.
+35,Quantifiers,1,Fill in the Blank,Complete the sentence: We packed ___ snacks for the long drive.,some,a few|many|a lot of|enough,Try to focus on the grammar or vocabulary clue.
+36,Quantifiers,1,Complete the question: How ___ butter does the recipe need?,much,,,Try to focus on the grammar or vocabulary clue.
+37,Quantifiers,1,Complete the sentence: ___ fans filled the stadium for the final.,Many,A lot of|Lots of,,Try to focus on the grammar or vocabulary clue.
+38,Quantifiers,1,Complete the sentence: We don't have ___ clean cups for everyone.,enough,any|many,,Try to focus on the grammar or vocabulary clue.
+39,Quantifiers,1,Complete the question: Would you like ___ soup?,some,a little,,Try to focus on the grammar or vocabulary clue.
+40,Quantifiers,1,"Complete the sentence: I have ___ homework tonight, so I can watch a film.",a little,some|not much,,Try to focus on the grammar or vocabulary clue.
+41,Quantifiers,1,Complete the sentence: There are ___ seats on the bus; everyone can sit down.,enough,many|a lot of,,Try to focus on the grammar or vocabulary clue.
+42,Quantifiers,1,Complete the sentence: They planted ___ flowers along the fence.,many,a lot of|lots of|some,,Try to focus on the grammar or vocabulary clue.
