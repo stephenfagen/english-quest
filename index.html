@@ -102,6 +102,7 @@ document.getElementById("roll").onclick=()=>{
  let n=1+Math.floor(Math.random()*3);
  setTimeout(()=>{d.textContent=["⚀","⚁","⚂"][n-1];d.classList.remove("rolling");move(n)},800)
 };
+document.getElementById("answer").addEventListener("keydown",event=>{if(event.key==="Enter"&&!event.isComposing){event.preventDefault();if(!document.getElementById("check").disabled)document.getElementById("check").click()}});
 document.getElementById("check").onclick=()=>{
  if(!current||awaitingTeacherDecision)return;
  let studentAnswer=document.getElementById("answer").value.trim(),controls=document.getElementById("teacher-controls"),finishAttempt=atFinishPending;
