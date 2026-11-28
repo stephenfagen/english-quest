@@ -76,6 +76,8 @@ function soundTone(ctx,startFreq,endFreq,duration,type,volume,delay=0){let t=ctx
 function soundNoise(ctx,delay=0,duration=.04,volume=.08,filterFreq=1800){let t=ctx.currentTime+delay,length=Math.max(1,Math.floor(ctx.sampleRate*duration)),buffer=ctx.createBuffer(1,length,ctx.sampleRate),data=buffer.getChannelData(0);for(let i=0;i<length;i++)data[i]=Math.random()*2-1;let source=ctx.createBufferSource(),filter=ctx.createBiquadFilter(),gain=ctx.createGain();source.buffer=buffer;filter.type="lowpass";filter.frequency.value=filterFreq;gain.gain.setValueAtTime(volume,t);gain.gain.exponentialRampToValueAtTime(.001,t+duration);source.connect(filter);filter.connect(gain);gain.connect(ctx.destination);source.start(t);source.stop(t+duration)}
 function playDiceRollSound(){let ctx=getAudio();if(!ctx)return;for(let i=0;i<7;i++)soundNoise(ctx,i*.055,.035,.10,1200+Math.random()*1800)}
 function playPieceMoveSound(){let ctx=getAudio();if(!ctx)return;let theme=document.getElementById("theme").value;if(theme==="cars")soundTone(ctx,125,420,.15,"sawtooth",.065);else if(theme==="soccer"){soundTone(ctx,155,58,.10,"sine",.16);soundNoise(ctx,0,.035,.08,950)}else if(theme==="candy")soundTone(ctx,760,390,.09,"sine",.055);else if(theme==="treasure")soundTone(ctx,850,1250,.12,"triangle",.05);else soundTone(ctx,430,230,.14,"sine",.045)}
+function playCorrectAnswerSound(){let ctx=getAudio();if(!ctx)return;soundTone(ctx,660,880,.13,"sine",.07);soundTone(ctx,880,1175,.18,"sine",.06,.12)}
+function playIncorrectAnswerSound(){let ctx=getAudio();if(!ctx)return;soundTone(ctx,330,220,.22,"triangle",.075);soundTone(ctx,220,165,.24,"triangle",.065,.16)}
 function playPrizeSound(){let ctx=getAudio();if(ctx){soundTone(ctx,620,980,.18,"sine",.065);soundTone(ctx,930,1250,.2,"sine",.045,.08)}}
 function playWinSound(){let ctx=getAudio();if(!ctx)return;[523,659,784,1047].forEach((f,i)=>soundTone(ctx,f,f*1.08,.24,"triangle",.085,i*.14));soundNoise(ctx,.58,.16,.055,2400)}
 function parseCSV(txt){let rows=[],row=[],field="",quoted=false;for(let i=0;i<txt.length;i++){let ch=txt[i],n=txt[i+1];if(ch==='"'&&quoted&&n==='"'){field+='"';i++}else if(ch==='"')quoted=!quoted;else if(ch===","&&!quoted){row.push(field);field=""}else if((ch==="\n"||ch==="\r")&&!quoted){if(ch==="\r"&&n==="\n")i++;row.push(field);if(row.some(x=>x.trim()))rows.push(row);row=[];field=""}else field+=ch}row.push(field);if(row.some(x=>x.trim()))rows.push(row);let head=rows.shift().map(x=>x.trim());return rows.map(r=>Object.fromEntries(head.map((h,i)=>[h,(r[i]||"").trim()])))}
@@ -114,7 +116,7 @@ document.getElementById("check").onclick=()=>{
  }
  let val=normalize(studentAnswer),ok=acceptable(current).filter(x=>x.length>0).includes(val),correctAnswer=current.Answer||"No answer key is set.";
  document.getElementById("feedback").textContent="Your answer: "+(studentAnswer||"(blank)")+". "+(ok?"Correct! Expected answer: ":"Incorrect. Correct answer: ")+correctAnswer;
- if(ok){stars++;document.getElementById("stars").textContent=stars+" ⭐"}
+ if(ok){stars++;document.getElementById("stars").textContent=stars+" ⭐"}(ok?playCorrectAnswerSound:playIncorrectAnswerSound)();
  lastAutoDecision={correct:ok,start:turnStartPos,end:turnEndPos,finish:finishAttempt};current=null;atFinishPending=false;
  document.getElementById("teacher-caption").textContent="Optional teacher override";document.getElementById("teacher-manual-buttons").classList.add("hidden");
  let override=document.getElementById("teacher-override");override.textContent=ok?"Teacher override: move piece back":"Teacher override: keep piece here";override.classList.remove("hidden");controls.classList.remove("hidden");
@@ -125,14 +127,14 @@ document.getElementById("check").onclick=()=>{
  })}
 };
 document.getElementById("teacher-accept").onclick=()=>{
- if(!awaitingTeacherDecision)return;awaitingTeacherDecision=false;stars++;document.getElementById("stars").textContent=stars+" ⭐";
+ if(!awaitingTeacherDecision)return;awaitingTeacherDecision=false;playCorrectAnswerSound();stars++;document.getElementById("stars").textContent=stars+" ⭐";
  document.getElementById("feedback").textContent+=" Teacher accepted the answer. The piece stays here.";
  document.getElementById("teacher-controls").classList.add("hidden");document.getElementById("teacher-manual-buttons").classList.add("hidden");
  document.getElementById("answer").disabled=false;document.getElementById("check").disabled=false;current=null;
  if(atFinishPending)completeQuest();atFinishPending=false
 };
 document.getElementById("teacher-reject").onclick=()=>{
- if(!awaitingTeacherDecision)return;let wasFinish=atFinishPending;awaitingTeacherDecision=false;atFinishPending=false;current=null;
+ if(!awaitingTeacherDecision)return;playIncorrectAnswerSound();let wasFinish=atFinishPending;awaitingTeacherDecision=false;atFinishPending=false;current=null;
  let feedback=document.getElementById("feedback"),message=feedback.textContent;document.getElementById("teacher-controls").classList.add("hidden");document.getElementById("teacher-manual-buttons").classList.add("hidden");
  document.getElementById("answer").disabled=false;document.getElementById("check").disabled=false;feedback.textContent+=" Teacher rejected the answer. Moving back…";
  animatePieceTo(turnStartPos,()=>{document.getElementById("qheading").textContent=wasFinish?"Finish challenge":"Your challenge";document.getElementById("qtext").textContent=wasFinish?"Wrong answer. Move off Finish and try again later.":"Roll to try a new question.";feedback.textContent=message+" Teacher rejected the answer. The piece moved back. Roll to continue."})
