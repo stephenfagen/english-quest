@@ -1,10 +1,10 @@
 ﻿ID,Theme,Difficulty,Type,Question,Answer,AcceptableAnswers,Hint
 1,False Friends and Make Do,1,Fix the Mistake,Correct the error: I have 15 years.,am 15 years old,,Try to focus on the grammar or vocabulary clue.
 2,False Friends and Make Do,1,Complete the Sentence,Complete the collocation: Can you ___ me a favour?,do,,Try to focus on the grammar or vocabulary clue.
-3,False Friends and Make Do,2,Fill in the Blank,Complete the collocation: I'm going to ___ a photo.,take,,Try to focus on the grammar or vocabulary clue.
+3,False Friends and Make Do,2,Fill in the Blank,Complete the collocation: I'm going to ___ a photo.,take,corridor,Try to focus on the grammar or vocabulary clue.
 4,False Friends and Make Do,2,Fix the Mistake,Correct the error: Actually means actualmente.,in fact,,Try to focus on the grammar or vocabulary clue.
 5,False Friends and Make Do,3,Complete the Sentence,Complete the collocation: We need to ___ a decision.,make,,Try to focus on the grammar or vocabulary clue.
-6,False Friends and Make Do,3,Fill in the Blank,Complete the collocation: My parents ___ a lot of housework.,do,,Try to focus on the grammar or vocabulary clue.
+6,False Friends and Make Do,3,Fill in the Blank,Complete the collocation: My parents ___ a lot of housework.,do,on time,Try to focus on the grammar or vocabulary clue.
 7,False Friends and Make Do,4,Fix the Mistake,Correct the error: She is sensible because she cries at sad films.,sensitive,,Try to focus on the grammar or vocabulary clue.
 8,False Friends and Make Do,4,Complete the Sentence,Complete the collocation: I want to ___ friends with the new student.,make,,Try to focus on the grammar or vocabulary clue.
 9,False Friends and Make Do,5,Open Speaking,Explain the difference between actually and currently with examples.,Student-generated response,,Try to focus on the grammar or vocabulary clue.
@@ -12,7 +12,7 @@
 11,Make and Do,2,Complete the Sentence,Complete the collocation: I need to ___ the laundry before work.,do,,Use the verb commonly paired with laundry.
 12,Make and Do,2,Fill in the Blank,Complete the collocation: The twins ___ a mess in the kitchen yesterday.,made,,Use the past form of the verb in this collocation.
 13,False Friends,2,Fix the Mistake,Correct the error: I assisted to a concert last night.,attended,,Choose the English verb meaning went to an event.
-14,False Friends,2,Complete the Sentence,"She wants to borrow a novel, so she studies at the ___.",library,,This is a place that lends books.
+14,False Friends,2,Complete the Sentence,"She wants to borrow a novel, so she studies at the ___.",library,last name,This is a place that lends books.
 15,Make and Do,2,Complete the Sentence,Complete the collocation: Could you ___ me a favor and close the window?,do,,Use the verb commonly paired with favor.
 16,Make and Do,2,Fill in the Blank,Complete the collocation: Let's ___ a plan before we start the project.,make,,Use the verb commonly paired with plan.
 17,False Friends,2,Fix the Mistake,Correct the error: The actual director of the school is on holiday.,current,,Use the English adjective meaning happening now.
@@ -23,3 +23,21 @@
 22,False Friends,2,Fix the Mistake,Correct the error: We discussed the issue in the library actual.,current,,Replace the false friend with the English meaning happening now.
 23,Make and Do,2,Complete the Sentence,Complete the collocation: The neighbors ___ noise late at night.,make,,Use the verb commonly paired with noise.
 24,False Friends,2,Fill in the Blank,Complete with the English word for a piece of advice from a professional: The doctor gave me a ___.,recommendation,,This noun means advice about what to do.
+25,Make and Do,2,Complete the Sentence,Complete the collocation: We ___ a mistake in the address.,made,,Try to focus on the grammar or vocabulary clue.
+26,False Friends,2,Fill in the Blank,"The room was full, so we waited in the ___.",hallway,corridor,Try to focus on the grammar or vocabulary clue.
+27,Make and Do,2,Fill in the Blank,Complete the collocation: She ___ her best in the interview.,did,,Try to focus on the grammar or vocabulary clue.
+28,False Friends,2,Fix the Mistake,Correct the error: I am sensible to pollen.,sensitive,,Try to focus on the grammar or vocabulary clue.
+29,Make and Do,2,Complete the Sentence,Complete the collocation: They ___ business with companies abroad.,do,,Try to focus on the grammar or vocabulary clue.
+30,False Friends,2,Fill in the Blank,"The train leaves at 6:00, so we must be ___ at the station.",punctual,on time,Try to focus on the grammar or vocabulary clue.
+31,Make and Do,2,Complete the Sentence,Complete the collocation: Can you ___ a promise to call?,make,,Try to focus on the grammar or vocabulary clue.
+32,False Friends,2,Fix the Mistake,Correct the error: My eventual goal is to learn Spanish next year.,final,,Try to focus on the grammar or vocabulary clue.
+33,Make and Do,2,Complete the Sentence,Complete the collocation: I ___ my homework before dinner.,do,,Try to focus on the grammar or vocabulary clue.
+34,False Friends,2,Fill in the Blank,She borrowed a novel from the public ___.,library,,Try to focus on the grammar or vocabulary clue.
+35,Make and Do,2,Fill in the Blank,Complete the collocation: The workers ___ progress on the new road.,made,,Try to focus on the grammar or vocabulary clue.
+36,False Friends,2,Fix the Mistake,Correct the error: We assisted a wedding ceremony.,attended,,Try to focus on the grammar or vocabulary clue.
+37,Make and Do,2,Complete the Sentence,Complete the collocation: He ___ a complaint about the noisy room.,made,,Try to focus on the grammar or vocabulary clue.
+38,False Friends,2,Fill in the Blank,Please write your name and ___ at the bottom of the page.,surname,last name,Try to focus on the grammar or vocabulary clue.
+39,Make and Do,2,Complete the Sentence,Complete the collocation: They ___ an appointment with the dentist.,made,,Try to focus on the grammar or vocabulary clue.
+40,False Friends,2,Fix the Mistake,Correct the error: The actual prize was a book voucher.,real,,Try to focus on the grammar or vocabulary clue.
+41,Make and Do,2,Fill in the Blank,Complete the collocation: She ___ a phone call from the airport.,made,,Try to focus on the grammar or vocabulary clue.
+42,False Friends,2,Complete the Sentence,The shop is closed now; it will ___ at nine tomorrow.,open,,Try to focus on the grammar or vocabulary clue.
