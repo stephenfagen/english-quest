@@ -1,25 +1,43 @@
 ﻿ID,Theme,Difficulty,Type,Question,Answer,AcceptableAnswers,Hint
-1,Adverbs of Frequency,1,Put the Words in Order,teeth / always / I / brush / my,I always brush my teeth.,I brush my teeth always.,Try to focus on the grammar or vocabulary clue.
-2,Adverbs of Frequency,1,Fill in the Blank,Complete the sentence: She ___ walks to school; she takes the bus every day.,never,,Try to focus on the grammar or vocabulary clue.
-3,Adverbs of Frequency,2,Complete the Sentence,Complete the sentence: He plays games after school on two days each week. He ___ plays games.,sometimes,He sometimes plays video games after school.,Try to focus on the grammar or vocabulary clue.
-4,Adverbs of Frequency,2,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ read books—about five evenings each week.,often,,Try to focus on the grammar or vocabulary clue.
+1,Adverbs of Frequency,1,Put the Words in Order,teeth / always / I / brush / my,I always brush my teeth.,always,Try to focus on the grammar or vocabulary clue.
+2,Adverbs of Frequency,1,Fill in the Blank,Complete the sentence: She ___ walks to school; she takes the bus every day.,never,normally|generally,Try to focus on the grammar or vocabulary clue.
+3,Adverbs of Frequency,2,Complete the Sentence,Complete the sentence: He plays games after school on two days each week. He ___ plays games.,sometimes,occasionally,Try to focus on the grammar or vocabulary clue.
+4,Adverbs of Frequency,2,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ read books—about five evenings each week.,often,frequently,Try to focus on the grammar or vocabulary clue.
 5,Adverbs of Frequency,3,Fix the Mistake,Correct the error: My brother never is late.,is never,,Try to focus on the grammar or vocabulary clue.
-6,Adverbs of Frequency,3,Put the Words in Order,football / plays / usually / she,She usually plays football.,She plays usually football.,Try to focus on the grammar or vocabulary clue.
-7,Adverbs of Frequency,4,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ eat breakfast; I leave home without eating.,never,,Try to focus on the grammar or vocabulary clue.
-8,Adverbs of Frequency,4,Complete the Sentence,Complete the sentence: We swim on most winter weekends. We ___ go swimming in winter.,usually,We usually go swimming in winter.,Try to focus on the grammar or vocabulary clue.
-9,Adverbs of Frequency,5,Fill in the Blank,Complete the sentence: Your dad cooks dinner Tuesdays and Thursdays. He ___ cooks dinner.,sometimes,,Try to focus on the grammar or vocabulary clue.
+6,Adverbs of Frequency,3,Put the Words in Order,football / plays / usually / she,She usually plays football.,,Try to focus on the grammar or vocabulary clue.
+7,Adverbs of Frequency,4,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ eat breakfast; I leave home without eating.,never,not ever,Try to focus on the grammar or vocabulary clue.
+8,Adverbs of Frequency,4,Complete the Sentence,Complete the sentence: We swim on most winter weekends. We ___ go swimming in winter.,usually,,Try to focus on the grammar or vocabulary clue.
+9,Adverbs of Frequency,5,Fill in the Blank,Complete the sentence: Your dad cooks dinner Tuesdays and Thursdays. He ___ cooks dinner.,sometimes,occasionally,Try to focus on the grammar or vocabulary clue.
 10,Adverbs of Frequency,5,Fix the Mistake,Correct the error: They go often to the park.,often go,,Try to focus on the grammar or vocabulary clue.
-11,Frequency Adverbs,1,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ wear a seat belt on every car trip.,always,,The routine happens on every occasion.
+11,Frequency Adverbs,1,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ wear a seat belt on every car trip.,always,every time,The routine happens on every occasion.
 12,Frequency Adverbs,1,Fill in the Blank,Complete the sentence: My aunt ___ drinks coffee; she refuses it.,never,,The routine does not happen at any time.
-13,Frequency Adverbs,1,Fill in the Blank,"Complete the sentence: We ___ visit the library after school, several times a month.",often,,The routine happens many times.
-14,Frequency Adverbs,1,Fill in the Blank,Complete the sentence: Liam ___ rides his bike to work; he usually takes the bus.,sometimes,,The routine happens on some occasions.
-15,Frequency Adverbs,1,Complete the Sentence,Complete the sentence: She ___ practices piano after dinner most days.,usually,,The routine happens on most days.
+13,Frequency Adverbs,1,Fill in the Blank,"Complete the sentence: We ___ visit the library after school, several times a month.",often,frequently,The routine happens many times.
+14,Frequency Adverbs,1,Fill in the Blank,Complete the sentence: Liam ___ rides his bike to work; he usually takes the bus.,sometimes,occasionally,The routine happens on some occasions.
+15,Frequency Adverbs,1,Complete the Sentence,Complete the sentence: She ___ practices piano after dinner most days.,usually,normally,The routine happens on most days.
 16,Frequency Adverbs,1,Put the Words in Order,usually / lunch / they / eat / at noon,They usually eat lunch at noon.,,Put the adverb before the main verb.
 17,Frequency Adverbs,1,Fix the Mistake,Correct the error: We watch sometimes cartoons after dinner.,sometimes watch,,Place the frequency adverb before the main verb.
 18,Frequency Adverbs,1,Put the Words in Order,never / is / our bus / late,Our bus is never late.,,Place the adverb after the verb be.
-19,Frequency Adverbs,1,Fill in the Blank,Complete the sentence with an adverb meaning every time: The sun ___ rises in the east.,always,,This happens on every occasion.
-20,Frequency Adverbs,1,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ bring a book to the park on some visits.,sometimes,,This does not happen every time.
-21,Frequency Adverbs,1,Complete the Sentence,Complete the sentence: Nina ___ walks her dog before class on most school days.,usually,,"The routine happens on most, but not all, school days."
+19,Frequency Adverbs,1,Fill in the Blank,Complete the sentence with an adverb meaning every time: The sun ___ rises in the east.,always,all the time,This happens on every occasion.
+20,Frequency Adverbs,1,Fill in the Blank,Complete the sentence with an adverb of frequency: I ___ bring a book to the park on some visits.,sometimes,occasionally,This does not happen every time.
+21,Frequency Adverbs,1,Complete the Sentence,Complete the sentence: Nina ___ walks her dog before class on most school days.,usually,normally,"The routine happens on most, but not all, school days."
 22,Frequency Adverbs,1,Fix the Mistake,Correct the error: My cousins eat always breakfast together.,always eat,,Place the frequency adverb before the main verb.
-23,Frequency Adverbs,1,Fill in the Blank,Complete the sentence: Our neighbors ___ invite us to dinner many times a month.,often,,The invitation happens many times.
+23,Frequency Adverbs,1,Fill in the Blank,Complete the sentence: Our neighbors ___ invite us to dinner many times a month.,often,frequently,The invitation happens many times.
 24,Frequency Adverbs,1,Put the Words in Order,is / rarely / the shop / crowded / at noon,The shop is rarely crowded at noon.,,Place the adverb after the verb be.
+25,Frequency Adverbs,1,Fill in the Blank,Complete: I ___ lock the door before leaving; I do it every time.,always,,Try to focus on the grammar or vocabulary clue.
+26,Frequency Adverbs,1,Fill in the Blank,Complete: Ava ___ visits her cousins; she goes there most weekends.,usually,normally,Try to focus on the grammar or vocabulary clue.
+27,Frequency Adverbs,1,Fill in the Blank,Complete: My brother ___ eats mushrooms; he avoids them completely.,never,,Try to focus on the grammar or vocabulary clue.
+28,Frequency Adverbs,1,Fill in the Blank,"Complete: The bakery ___ sells out of bread by noon, on many days.",often,frequently,Try to focus on the grammar or vocabulary clue.
+29,Frequency Adverbs,1,Fill in the Blank,"Complete: We ___ take the train, but sometimes we drive instead.",usually,normally,Try to focus on the grammar or vocabulary clue.
+30,Frequency Adverbs,1,Put the Words in Order,often / in the evening / reads / my father,My father often reads in the evening.,,Try to focus on the grammar or vocabulary clue.
+31,Frequency Adverbs,1,Fix the Mistake,Correct the error: They are usually tired never after practice.,They are never tired after practice.,,Try to focus on the grammar or vocabulary clue.
+32,Frequency Adverbs,1,Fill in the Blank,"Complete: I ___ see my neighbors at the market, but not every visit.",sometimes,occasionally,Try to focus on the grammar or vocabulary clue.
+33,Frequency Adverbs,1,Fill in the Blank,Complete: The bus ___ arrives late; it happens on many mornings.,often,frequently,Try to focus on the grammar or vocabulary clue.
+34,Frequency Adverbs,1,Put the Words in Order,is / always / our classroom / tidy,Our classroom is always tidy.,,Try to focus on the grammar or vocabulary clue.
+35,Frequency Adverbs,1,Fill in the Blank,Complete: He ___ forgets his keys; it has happened only once this year.,rarely,seldom,Try to focus on the grammar or vocabulary clue.
+36,Frequency Adverbs,1,Fill in the Blank,"Complete: The children ___ play outside when the weather is warm, on some days.",sometimes,occasionally,Try to focus on the grammar or vocabulary clue.
+37,Frequency Adverbs,1,Fix the Mistake,Correct the error: My sister goes to bed late usually.,My sister usually goes to bed late.,,Try to focus on the grammar or vocabulary clue.
+38,Frequency Adverbs,1,Fill in the Blank,Complete: We ___ eat at that café; we go there nearly every week.,often,frequently,Try to focus on the grammar or vocabulary clue.
+39,Frequency Adverbs,1,Put the Words in Order,never / forgets / his lunch / Mateo,Mateo never forgets his lunch.,,Try to focus on the grammar or vocabulary clue.
+40,Frequency Adverbs,1,Fill in the Blank,Complete: I ___ drink tea in the morning; coffee is my usual choice.,rarely,seldom,Try to focus on the grammar or vocabulary clue.
+41,Frequency Adverbs,1,Fill in the Blank,Complete: The post arrives ___ before noon; it does on most days.,usually,normally,Try to focus on the grammar or vocabulary clue.
+42,Frequency Adverbs,1,Fill in the Blank,"Complete: My friends ___ play board games on Fridays, but not every Friday.",sometimes,occasionally,Try to focus on the grammar or vocabulary clue.
