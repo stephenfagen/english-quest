@@ -1,14 +1,14 @@
 ﻿ID,Theme,Difficulty,Type,Question,Answer,AcceptableAnswers,Hint
-1,Object Pronouns,1,Fill in the Blank,I can see Maria. I can see ___.,her,I can see Maria.,Try to focus on the grammar or vocabulary clue.
-2,Object Pronouns,1,Complete the Sentence,Tom likes the dog. He plays with ___.,it,He plays with the dog.,Try to focus on the grammar or vocabulary clue.
+1,Object Pronouns,1,Fill in the Blank,I can see Maria. I can see ___.,her,,Try to focus on the grammar or vocabulary clue.
+2,Object Pronouns,1,Complete the Sentence,Tom likes the dog. He plays with ___.,it,,Try to focus on the grammar or vocabulary clue.
 3,Object Pronouns,2,Fix the Mistake,Correct the error: Please give the book to I.,me,,Try to focus on the grammar or vocabulary clue.
-4,Object Pronouns,2,Make a Sentence,(us / help / they),They help us.,They helps us.,Try to focus on the grammar or vocabulary clue.
-5,Object Pronouns,3,Fill in the Blank,We visit our grandparents. They visit ___ too.,us,They visit we too.,Try to focus on the grammar or vocabulary clue.
-6,Object Pronouns,3,Complete the Sentence,Sam is my brother. This gift is for ___.,him,This gift is for he.,Try to focus on the grammar or vocabulary clue.
+4,Object Pronouns,2,Make a Sentence,(us / help / they),They help us.,,Try to focus on the grammar or vocabulary clue.
+5,Object Pronouns,3,Fill in the Blank,We visit our grandparents. They visit ___ too.,us,,Try to focus on the grammar or vocabulary clue.
+6,Object Pronouns,3,Complete the Sentence,Sam is my brother. This gift is for ___.,him,,Try to focus on the grammar or vocabulary clue.
 7,Object Pronouns,4,Fix the Mistake,Correct the error: I sit next to she.,her,,Try to focus on the grammar or vocabulary clue.
 8,Object Pronouns,4,Fill in the Blank,Choose the correct object pronoun for “we”: Who can help ___?,us,,Try to focus on the grammar or vocabulary clue.
-9,Object Pronouns,5,Fill in the Blank,The teacher talks to the students after class. The teacher talks to ___.,them,The teacher talks to they.,Try to focus on the grammar or vocabulary clue.
-10,Object Pronouns,5,Make a Sentence,(him / she / see),She sees him.,She see him.,Try to focus on the grammar or vocabulary clue.
+9,Object Pronouns,5,Fill in the Blank,The teacher talks to the students after class. The teacher talks to ___.,them,,Try to focus on the grammar or vocabulary clue.
+10,Object Pronouns,5,Make a Sentence,(him / she / see),She sees him.,,Try to focus on the grammar or vocabulary clue.
 11,Object Pronouns,1,Fill in the Blank,Maya is my cousin. I call ___ every weekend.,her,,Use the object pronoun for one female person.
 12,Object Pronouns,1,Complete the Sentence,The boys are outside. Can you see ___?,them,,Use the object pronoun for a group of people.
 13,Object Pronouns,1,Fill in the Blank,My friends and I are ready. Please wait for ___.,us,,Use the object pronoun for the speaker and other people.
@@ -23,3 +23,21 @@
 22,Object Pronouns,1,Fix the Mistake,Correct the error: I can hear they from the hallway.,them,,Use an object pronoun after the verb.
 23,Object Pronouns,1,Make a Sentence,(her / invite / we),We invite her.,,Use an object pronoun as the receiver of the action.
 24,Object Pronouns,1,Fill in the Blank,The kitten is hungry. Give ___ some food.,it,,Use the object pronoun for one animal.
+25,Object Pronouns,1,Fill in the Blank,I know Daniel. Do you know ___?,him,,Try to focus on the grammar or vocabulary clue.
+26,Object Pronouns,1,Complete the Sentence,The children are waiting. Please call ___.,them,,Try to focus on the grammar or vocabulary clue.
+27,Object Pronouns,1,Fill in the Blank,This pen belongs to me. Please give it to ___.,me,,Try to focus on the grammar or vocabulary clue.
+28,Object Pronouns,1,Fix the Mistake,Correct the error: The guide showed they the old castle.,them,,Try to focus on the grammar or vocabulary clue.
+29,Object Pronouns,1,Complete the Sentence,My brothers are at home. I will visit ___ tonight.,them,,Try to focus on the grammar or vocabulary clue.
+30,Object Pronouns,1,Fill in the Blank,Sofia is our new neighbor. We invited ___ for tea.,her,,Try to focus on the grammar or vocabulary clue.
+31,Object Pronouns,1,Complete the Sentence,The soup is hot. Let it cool before you eat ___.,it,,Try to focus on the grammar or vocabulary clue.
+32,Object Pronouns,1,Fix the Mistake,Correct the error: The coach spoke to we after the game.,us,,Try to focus on the grammar or vocabulary clue.
+33,Object Pronouns,1,Fill in the Blank,Can you help my sister and me? Can you help ___?,us,,Try to focus on the grammar or vocabulary clue.
+34,Object Pronouns,1,Make a Sentence,(them / meet / I),I meet them.,,Try to focus on the grammar or vocabulary clue.
+35,Object Pronouns,1,Complete the Sentence,I saw your parents. I waved to ___.,them,,Try to focus on the grammar or vocabulary clue.
+36,Object Pronouns,1,Fix the Mistake,Correct the error: Please sit beside I.,me,,Try to focus on the grammar or vocabulary clue.
+37,Object Pronouns,1,Fill in the Blank,The dog is thirsty. Give ___ some water.,it,,Try to focus on the grammar or vocabulary clue.
+38,Object Pronouns,1,Complete the Sentence,That new student is friendly. Everyone likes ___.,him,,Try to focus on the grammar or vocabulary clue.
+39,Object Pronouns,1,Make a Sentence,(her / we / call),We call her.,,Try to focus on the grammar or vocabulary clue.
+40,Object Pronouns,1,Fill in the Blank,My aunt sent a postcard to my brother and ___.,me,,Try to focus on the grammar or vocabulary clue.
+41,Object Pronouns,1,Complete the Sentence,The apples are ripe. Wash ___ before eating.,them,,Try to focus on the grammar or vocabulary clue.
+42,Object Pronouns,1,Fix the Mistake,Correct the error: I can hear he from outside.,him,,Try to focus on the grammar or vocabulary clue.
