@@ -1,11 +1,25 @@
 ﻿ID,Theme,Difficulty,Type,Question,Answer,AcceptableAnswers,Hint
-1,Prepositions,1,Fill in the Blank,Choose the correct preposition of place (under / on / next to): The cat is ___ the table.,under,The cat is on the table.,Try to focus on the grammar or vocabulary clue.
-2,Prepositions,1,Complete the Sentence,My birthday is ___ May. (in / on),in,My birthday is on May.,Try to focus on the grammar or vocabulary clue.
+1,Prepositions,1,Fill in the Blank,"The cat is hiding beneath the table, not on top of it. The cat is ___ the table.",under,The cat is on the table.,Try to focus on the grammar or vocabulary clue.
+2,Prepositions,1,Complete the Sentence,Complete the sentence with the preposition used with a month: My birthday is ___ May.,in,My birthday is on May.,Try to focus on the grammar or vocabulary clue.
 3,Prepositions,2,Fix the Mistake,Correct the error: We meet at Monday.,on,,Try to focus on the grammar or vocabulary clue.
 4,Prepositions,2,Make a Sentence,(the keys / next to / bag),The keys are next to the bag.,The keys next the bag.,Try to focus on the grammar or vocabulary clue.
-5,Prepositions,3,Fill in the Blank,Choose the preposition that connects two places (between / among / beside): The school is ___ the bank and the park.,between,The school is among the bank and park.,Try to focus on the grammar or vocabulary clue.
-6,Prepositions,3,Complete the Sentence,Choose the correct preposition for a clock time (at / in / on): The film starts ___ 7:30.,at,The film starts on 7:30.,Try to focus on the grammar or vocabulary clue.
+5,Prepositions,3,Fill in the Blank,The school is in the middle of the bank and the park. It is ___ the bank and the park.,between,The school is among the bank and park.,Try to focus on the grammar or vocabulary clue.
+6,Prepositions,3,Complete the Sentence,Complete the sentence with the preposition used before a clock time: The film starts ___ 7:30.,at,The film starts on 7:30.,Try to focus on the grammar or vocabulary clue.
 7,Prepositions,4,Fix the Mistake,Correct the error: She lives in 21 Oak Street.,at,,Try to focus on the grammar or vocabulary clue.
 8,Prepositions,4,Make a Question,Complete the present simple wh-question with the correct question word: ___ are your shoes?,Where,,Try to focus on the grammar or vocabulary clue.
-9,Prepositions,5,Fill in the Blank,Choose the preposition used for a method of transport (by / on / with): We go ___ bus.,by,We go with bus.,Try to focus on the grammar or vocabulary clue.
-10,Prepositions,5,Complete the Sentence,Choose the correct preposition of place (on / in / under): The picture is ___ the wall.,on,The picture is in the wall.,Try to focus on the grammar or vocabulary clue.
+9,Prepositions,5,Fill in the Blank,Complete the sentence with the preposition used for this transport method: We go ___ bus.,by,We go with bus.,Try to focus on the grammar or vocabulary clue.
+10,Prepositions,5,Complete the Sentence,A picture hangs from the surface of the wall. The picture is ___ the wall.,on,The picture is in the wall.,Try to focus on the grammar or vocabulary clue.
+11,Prepositions of Place,1,Fill in the Blank,Complete the sentence with the preposition for something directly below another thing: The shoes are ___ the bed.,under,,The shoes are beneath the bed.
+12,Prepositions of Time,1,Fill in the Blank,Complete the sentence with the preposition used with a month: School starts ___ September.,in,,Use the usual preposition before a month.
+13,Prepositions of Place,1,Fill in the Blank,The library is ___ the bank and the post office; it is in the middle of the two buildings.,between,,Use the preposition for something in the middle of two things.
+14,Prepositions of Time,1,Fill in the Blank,Complete the sentence with the preposition used before an exact clock time: Our train leaves ___ 6:40.,at,,Use the usual preposition before an exact time.
+15,Prepositions of Transport,1,Fill in the Blank,Complete the sentence with the preposition used for this way of travelling: They travelled ___ bus.,by,,Use the usual phrase for a transport method.
+16,Prepositions of Place,1,Fill in the Blank,A poster is attached to the wall. It is ___ the wall.,on,,Use the preposition for a surface.
+17,Prepositions of Time,1,Complete the Sentence,Complete the sentence with the preposition used before a weekday: The dentist appointment is ___ Thursday.,on,,Use the usual preposition before a day.
+18,Prepositions of Place,1,Fill in the Blank,The lamp is beside the sofa. It is ___ the sofa.,next to,,Use a phrase meaning beside.
+19,Prepositions of Time,1,Fill in the Blank,Complete the sentence with the preposition used before a year: My parents moved here ___ 2018.,in,,Use the usual preposition before a year.
+20,Prepositions of Place,1,Complete the Sentence,The keys are inside the drawer. They are ___ the drawer.,in,,Use the preposition for an enclosed space.
+21,Prepositions of Transport,1,Fill in the Blank,Complete the sentence with the preposition used for travelling on foot: We went ___ foot to the market.,on,,This fixed phrase describes walking.
+22,Prepositions of Place,1,Fix the Mistake,Correct the error: The calendar is in the wall.,on,,A calendar hangs on a surface.
+23,Prepositions of Time,1,Fill in the Blank,Complete the sentence with the preposition used before a season: We go hiking ___ summer.,in,,Use the usual preposition before a season.
+24,Prepositions of Place,1,Complete the Sentence,The cat is beside the chair. It is ___ the chair.,next to,,Use a phrase meaning beside.
